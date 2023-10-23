@@ -1,16 +1,24 @@
 # random_wordpair_app
 
-A new Flutter project.
+My first flutter project, for learning purposes.
 
-## Getting Started
+Based on https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
 
-This project is a starting point for a Flutter application.
+## Functionality
 
-A few resources to get you started if this is your first Flutter project:
+### Generate a random wordpair
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+On the Home page, click the 'Next' button to generate a new random wordpair.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Favourite a generated wordpair
+
+On the Home page, click the 'Like' button to favourite a generated wordpair.
+On the Favorites page, your favourited wordpairs will be listed.
+
+## What I learnt:
+- The basics of how Flutter works
+- Creating layouts in Flutter
+- Connecting user interactions (like button presses) to app behavior
+- Keeping my Flutter code organized
+- Making my app responsive
+- Achieving a consistent look & feel of my app
